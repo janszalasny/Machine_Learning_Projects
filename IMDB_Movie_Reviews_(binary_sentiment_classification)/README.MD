@@ -1,4 +1,4 @@
-# Sentiment Analysis of IMDB Movie Reviews 🎬
+# Sentiment Analysis of IMDB Movie Reviews
 
 This project demonstrates an end-to-end workflow for a classic Natural Language Processing (NLP) problem: binary text classification. A neural network is built using TensorFlow and Keras to classify IMDB movie reviews as either positive or negative.
 
@@ -6,7 +6,7 @@ The project is presented in a Google Colab notebook, walking through each step f
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Key Learnings](#key-learnings)
@@ -18,7 +18,7 @@ The project is presented in a Google Colab notebook, walking through each step f
 
 ---
 
-## 📝 Project Overview
+## Project Overview
 
 The goal of this project is to build and train a deep learning model that can accurately predict the sentiment of a movie review. We use the well-known IMDB dataset, which contains 25,000 highly polar movie reviews for training and 25,000 for testing.
 
@@ -33,7 +33,7 @@ The notebook covers:
 
 ---
 
-## ✨ Key Learnings
+## Key Learnings
 
 This project serves as a practical demonstration of the following machine learning concepts and skills:
 
@@ -47,7 +47,7 @@ This project serves as a practical demonstration of the following machine learni
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3  
 - TensorFlow & Keras: For building and training the deep learning model.  
@@ -60,7 +60,7 @@ This project serves as a practical demonstration of the following machine learni
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 This project is designed to be run in a cloud environment like Google Colab, requiring no local setup.
 
@@ -78,7 +78,7 @@ The necessary libraries will be installed, the data downloaded, and the model wi
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 The notebook is structured to follow a standard machine learning project lifecycle:
 
@@ -94,11 +94,10 @@ The notebook is structured to follow a standard machine learning project lifecyc
 
 ---
 
-## 📊 Results
+## Results
 
 The model achieved a final accuracy of approximately **87%** on the test set.
 
 The training history shows that the model learned effectively without significant overfitting, as the validation accuracy tracked the training accuracy closely before EarlyStopping halted the process.
 
-**Classification Report:**
 
