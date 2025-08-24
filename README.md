@@ -34,9 +34,3 @@ Each folder contains a self-contained project with code, data processing steps, 
 - Implement algorithms **from scratch** to understand their inner workings.  
 - Apply **state-of-the-art ML models** to diverse datasets.  
 - Provide reproducible notebooks for experimentation and learning.  
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Machine_Learning_Notebooks.git
