@@ -7,7 +7,7 @@ This repository contains a **Google Colab notebook (.ipynb)** that walks through
 
 ---
 
-## Dataset 📊
+## Dataset
 
 The data for this project is the **MAGIC Gamma Telescope Data Set** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/magic+gamma+telescope).  
 It consists of Monte Carlo generated data to simulate the registration of high-energy particles.
@@ -23,7 +23,7 @@ The **target variable** is `class`.
 
 ---
 
-## Project Workflow ⚙️
+## Project Workflow
 
 The project follows a standard machine learning pipeline:
 
